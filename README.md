@@ -2,7 +2,7 @@
 Репозиторий для моих идей
 Йохохо и бутылка рома!
 Шаблоны для жаббикса качайте через git clone.
-
+w
 1. zabbix_arena_maxtronic_polka_ss_sa.xml
 Шаблон zabbix 3.0 для полок arena maxtronic.
 Перед добавлением проверьте доступнось по snmp:
